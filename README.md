@@ -1,4 +1,4 @@
-This repository: XXXXXXXXX
+This repository: [![DOI](https://zenodo.org/badge/307707089.svg)](https://zenodo.org/badge/latestdoi/307707089)
 
 # Sub-optimal Discontinuous Current-Clamp switching rates lead to deceptive mouse neuronal firing}
 Marin Manuel (1)
